@@ -1,5 +1,4 @@
 # Coursera Google IT Automation with Python Professional Certificate
-Coursera Google IT Automation with Python Professional Certificate
 
 
 ## [Coursera Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
@@ -10,8 +9,7 @@ Coursera Google IT Automation with Python Professional Certificate
 
 ####    **Certificate:** _..._
 #
-### 2. [Using Python to Interact with the Operating System
-](https://www.coursera.org/learn/python-operating-system?specialization=google-it-automation)
+### 2. [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system?specialization=google-it-automation)
 
 ####    **Certificate:** _..._
 #   
@@ -19,8 +17,7 @@ Coursera Google IT Automation with Python Professional Certificate
 
 ####    **Certificate:** _.._
 #   
-### 4. [Troubleshooting and Debugging Techniques
-](https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation)
+### 4. [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation)
 
 ####    **Certificate:** _..._
 #
