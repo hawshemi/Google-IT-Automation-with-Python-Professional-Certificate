@@ -7,7 +7,7 @@
 
 ### 1. [Crash Course on Python](https://www.coursera.org/learn/python-crash-course?specialization=google-it-automation)
 
-####    **Certificate:** _..._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/PJ25DT4KEJ93_
 #
 ### 2. [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system?specialization=google-it-automation)
 
