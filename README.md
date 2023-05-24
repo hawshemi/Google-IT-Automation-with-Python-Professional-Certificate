@@ -12,7 +12,7 @@
 #
 ### 2. [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system?specialization=google-it-automation)
 
-####    **Certificate:** _..._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/2T8E2SQDASWA_
 #   
 ### 3. [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation)
 
