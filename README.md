@@ -16,7 +16,7 @@
 #   
 ### 3. [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation)
 
-####    **Certificate:** _.._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/E5VVNULTFPJA_
 #   
 ### 4. [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation)
 
