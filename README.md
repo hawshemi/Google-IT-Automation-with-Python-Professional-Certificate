@@ -2,7 +2,7 @@
 
 
 ## [Coursera Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
-####    **Certificate:** _..._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/professional-cert/GK96RSAY57DL_
 #
 
 ### 1. [Crash Course on Python](https://www.coursera.org/learn/python-crash-course?specialization=google-it-automation)
