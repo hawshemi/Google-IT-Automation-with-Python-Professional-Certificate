@@ -27,7 +27,7 @@
 #
 ### 6. [Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python?specialization=google-it-automation)
 
-####    **Certificate:** _..._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/KE3BPGK3VC5S_
 #
 
 [*Coursera Honor Code*](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US)
